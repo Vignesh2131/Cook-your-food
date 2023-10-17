@@ -1,6 +1,7 @@
 # Cook-your-food
 
-It is a recipe website developed using ReactJS. This website has recipes of different cuisines and desired recipe can be searched.
+It is a recipe website developed using ReactJS. This website has recipes for different types of cuisines. 
+
 
 ## To run this Website in your VS Code. You need to follow certain steps.
 1.Open your terminal and then type<br>
